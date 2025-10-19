@@ -32,7 +32,7 @@
 ---
 
 ### Academic Work
-- 📖 **Master’s Thesis:** [*Using the Fastify Framework and Its Plugins*](https://dk.um.si/Dokument.php?id=196363&lang=slv) — Developed a scalable backend application with Fastify, exploring plugin integration for performance optimization, modularity, and clean architecture.
+- 📖 **Bachelors’s Thesis:** [*Using the Fastify Framework and Its Plugins*](https://dk.um.si/Dokument.php?id=196363&lang=slv) — Developed a scalable backend application with Fastify, exploring plugin integration for performance optimization, modularity, and clean architecture.
 
 ---
 
