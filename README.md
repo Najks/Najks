@@ -24,10 +24,10 @@
 ---
 
 ### Featured Projects
-- 📨 [**Paketnik Mobile App**](https://github.com/vankaler/PaketnikMobileApp) — Mobile app for smart package delivery management.
+- 📨 [**Fullstack Marketplace app**](https://github.com/Najks/fullstack-marketplace-app) — Web app simulating a local marketplace app, built with React, Express, PostgreSQL, Node.js and Prisma ORM.
 - ⚙️ [**Project RAI Backend**](https://github.com/domenlaznik1002566835/project-rai-backend) — Node.js/Express API for a university project.
 - 💻 [**Project RAI Frontend**](https://github.com/domenlaznik1002566835/project-rai-frontend) — React frontend with REST API integration.
-- 🎮 [**pyGame**](https://github.com/domenlaznik1002566835/pyGame) — Small Python game experiment using pygame.
+- 🎮 [**Godot game**](https://github.com/TomazSi/ScoreJam) — Small game I developed in Godot engine for a game jam.
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Recent Work
 - 🌐 [**Perosa724 Lusso**](https://perosa724lusso.si/) — A responsive website designed and built by me, focusing on modern UI and SEO optimization.
+- 👾 [**Itch.io Games**](https://datamis.itch.io/) - All of my games I developed on Itch.io
 
 ---
 
