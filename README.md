@@ -41,7 +41,7 @@
 ### Featured Projects
 - 📨 [**Fullstack Marketplace app**](https://github.com/Najks/fullstack-marketplace-app) — Web app simulating a local marketplace app, built with React, Express, PostgreSQL, Node.js and Prisma ORM.
 - ⚙️ [**Project RAI Backend**](https://github.com/domenlaznik1002566835/project-rai-backend) — Node.js/Express API for a university project.
-- 💻 [**Project RAI Frontend**](https://github.com/domenlaznik1002566835/project-rai-frontend) — React frontend with REST API integration.
+- 📚 [**Faks Tasks**](https://github.com/Najks/faks-tasks) — Full-stack academic task tracker built with Laravel 12 and Vue 3. Organise coursework, track statuses, record grades, and monitor progress in one place.
 - 🎮 [**Godot game**](https://github.com/TomazSi/ScoreJam) — Small game I developed in Godot engine for a game jam.
 
 ---
