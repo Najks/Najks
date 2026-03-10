@@ -1,4 +1,4 @@
-<h3 align="center">Full-Stack Developer | Web Development</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   Full-stack developer from <strong>Slovenia</strong> and a <strong>Master’s student at FERI</strong>.  
@@ -39,10 +39,10 @@
 ---
 
 ### Featured Projects
-- 📨 [**Fullstack Marketplace app**](https://github.com/Najks/fullstack-marketplace-app) — Web app simulating a local marketplace app, built with React, Express, PostgreSQL, Node.js and Prisma ORM.
-- ⚙️ [**Project RAI Backend**](https://github.com/domenlaznik1002566835/project-rai-backend) — Node.js/Express API for a university project.
-- 📚 [**Faks Tasks**](https://github.com/Najks/faks-tasks) — Full-stack academic task tracker built with Laravel 12 and Vue 3. Organise coursework, track statuses, record grades, and monitor progress in one place.
-- 🎮 [**Godot game**](https://github.com/TomazSi/ScoreJam) — Small game I developed in Godot engine for a game jam.
+- [**Fullstack Marketplace app**](https://github.com/Najks/fullstack-marketplace-app) — Web app simulating a local marketplace app, built with React, Express, PostgreSQL, Node.js and Prisma ORM.
+-  [**Project RAI Backend**](https://github.com/domenlaznik1002566835/project-rai-backend) — Node.js/Express API for a university project.
+-  [**Faks Tasks**](https://github.com/Najks/faks-tasks) — Full-stack academic task tracker built with Laravel 12 and Vue 3. Organise coursework, track statuses, record grades, and monitor progress in one place.
+-  [**Godot game**](https://github.com/TomazSi/ScoreJam) — Small game I developed in Godot engine for a game jam.
 
 ---
 
@@ -52,8 +52,8 @@
 ---
 
 ### Recent Work
-- 🌐 [**Perosa724 Lusso**](https://perosa724lusso.si/) — A responsive website designed and built by me, focusing on modern UI and SEO optimization.
-- 👾 [**Itch.io Games**](https://datamis.itch.io/) - All of my games I developed on Itch.io
+-  [**Perosa724 Lusso**](https://perosa724lusso.si/) — A responsive website designed and built by me, focusing on modern UI and SEO optimization.
+-  [**Itch.io Games**](https://datamis.itch.io/) - All of my games I developed on Itch.io
 
 ---
 
