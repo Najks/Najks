@@ -45,6 +45,13 @@
 
 ---
 
+### Portfolio
+
+- 🌐 **Portfolio Website** — https://portfolio.datamis.top
+  Personal portfolio showcasing my projects, technical skills, academic work, and professional experience.
+
+---
+
 ### Academic Work
 - 📖 **Bachelors’s Thesis:** [*Using the Fastify Framework and Its Plugins*](https://dk.um.si/IzpisGradiva.php?id=94722)https://dk.um.si/IzpisGradiva.php?id=94722 — Developed a scalable backend application with Fastify, exploring plugin integration for performance optimization, modularity, and clean architecture.
 
